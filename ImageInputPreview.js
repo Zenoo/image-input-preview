@@ -103,11 +103,11 @@ class ImageInputPreview{
 					};
 	
 					reader.readAsDataURL(this.input.files[0]);
-				}else{
-
 				}
 				
 				this._title.innerText = this.input.files[0].name;
+
+				this.changed = true;
 			}
 		});
 	}
