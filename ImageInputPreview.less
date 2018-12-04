@@ -1,0 +1,20 @@
+.iip-input{
+	display: none;
+}
+
+.iip-preview{
+	cursor: pointer;
+	max-width: 100px;
+	max-height: 100px;
+}
+
+.iip-title{
+	&:before {
+		content: "\a ";
+		white-space: pre;
+	}
+
+	&:empty{
+		display: none;
+	}
+}
