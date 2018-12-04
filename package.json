@@ -1,22 +1,25 @@
 {
-  "name": "slick-loader",
-  "version": "1.1.3",
-  "description": "A slick loader to use during your AJAX calls or data processing",
-  "main": "slick-loader.js",
+  "name": "image-input-preview",
+  "version": "0.0.2",
+  "description": "Display a preview for your image inputs easily",
+  "main": "ImageInputPreview.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zenoo/slick-loader.git"
+    "url": "git+https://github.com/Zenoo/image-input-preview.git"
   },
   "keywords": [
-    "loader"
+	"input",
+	"preview",
+	"file",
+	"image"
   ],
   "author": "Zenoo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Zenoo/slick-loader/issues"
+    "url": "https://github.com/Zenoo/image-input-preview/issues"
   },
-  "homepage": "https://github.com/Zenoo/slick-loader#readme"
+  "homepage": "https://github.com/Zenooimage-input-preview#readme"
 }
