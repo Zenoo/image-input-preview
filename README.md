@@ -22,13 +22,16 @@ You can either use data attributes or the `ImageInputAttribute` class to initial
 <input type="file" accept="image/*" data-preview="https://link.to.your.preview.net">
 // OR
 let preview = new ImageInputAttribute(input, {
-	preview: 'https://link.to.your.preview.net'
+  preview: 'https://link.to.your/preview.png',        // Optional
+  uploadIcon: 'https://link.to.your.upload/icon.png', // Optional
+  lang: 'en',                                         // Language used
+  dictionary: null                                    // Allow for custom language
 });
 ```
 
 * **Methods**
 ```
-
+See the [documentation](https://zenoo.github.io/image-input-preview/ImageInputPreview.html) for the method definitions.
 ```
 
 * **Example**
