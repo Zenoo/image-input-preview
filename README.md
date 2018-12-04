@@ -22,10 +22,10 @@ You can either use data attributes or the `ImageInputAttribute` class to initial
 <input type="file" accept="image/*" data-preview="https://link.to.your.preview.net">
 // OR
 let preview = new ImageInputAttribute(input, {
-  preview: 'https://link.to.your/preview.png',        // Optional
-  uploadIcon: 'https://link.to.your.upload/icon.png', // Optional
-  lang: 'en',                                         // Language used
-  dictionary: null                                    // Allow for custom language
+  preview: 'https://link.to.your/preview.png',        // Optional | Preview displayed
+  uploadIcon: 'https://link.to.your.upload/icon.png', // Optional | Icon used when no preview is displayed
+  lang: 'en',                                         // Optional | Language used
+  dictionary: null                                    // Optional | Allow for custom language
 });
 ```
 
