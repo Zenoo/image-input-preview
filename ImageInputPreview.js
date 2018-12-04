@@ -94,6 +94,7 @@ class ImageInputPreview{
 
 	/**
 	 * Listens to necessary events
+	 * @private
 	 */
 	_listen(){
 		this.preview.addEventListener('click', () => {
