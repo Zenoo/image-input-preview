@@ -1,6 +1,6 @@
 {
   "name": "image-input-preview",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Display a preview for your image inputs easily",
   "main": "ImageInputPreview.js",
   "scripts": {
@@ -11,10 +11,10 @@
     "url": "git+https://github.com/Zenoo/image-input-preview.git"
   },
   "keywords": [
-	"input",
-	"preview",
-	"file",
-	"image"
+    "input",
+    "preview",
+    "file",
+    "image"
   ],
   "author": "Zenoo",
   "license": "MIT",
