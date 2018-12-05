@@ -8,8 +8,8 @@ Display a preview for your image inputs easily
 
 Simply import image-input-preview into your HTML.
 ```
-<link rel="stylesheet" type="text/css" href="https://gitcdn.link/repo/Zenoo/image-input-preview/master/image-input-preview.min.css">
-<script src="https://gitcdn.link/repo/Zenoo/image-input-preview/master/image-input-preview.min.js"></script>	
+<link rel="stylesheet" type="text/css" href="https://gitcdn.link/repo/Zenoo/image-input-preview/master/ImageInputPreview.min.css">
+<script src="https://gitcdn.link/repo/Zenoo/image-input-preview/master/ImageInputPreview.min.js"></script>	
 ```
 * **Documentation**
 
