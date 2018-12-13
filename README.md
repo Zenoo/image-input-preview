@@ -30,9 +30,8 @@ let preview = new ImageInputAttribute(input, {
 ```
 
 * **Methods**
-```
 See the [documentation](https://zenoo.github.io/image-input-preview/ImageInputPreview.html) for the method definitions.
-```
+
 
 * **Example**
 
