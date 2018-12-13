@@ -1,6 +1,6 @@
 {
   "name": "image-input-preview",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "Display a preview for your image inputs easily",
   "main": "ImageInputPreview.js",
   "scripts": {
