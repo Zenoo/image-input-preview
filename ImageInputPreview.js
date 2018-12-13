@@ -147,7 +147,7 @@ class ImageInputPreview{
 	 * @returns {ImageInputPreview} The current ImageInputPreview
 	 */
 	reset(){
-		this.input.reset();
+		this.input.value = '';
 		this.preview.src = this._uploadIcon;
 		this._title.innerText = '';
 
