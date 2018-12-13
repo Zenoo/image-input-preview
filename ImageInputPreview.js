@@ -23,7 +23,7 @@ class ImageInputPreview{
 			uploadIcon: null,
 			lang: 'en',
 			dictionary: null,
-			...parameters
+			...(parameters || {})
 		};
 
         //Errors checking
