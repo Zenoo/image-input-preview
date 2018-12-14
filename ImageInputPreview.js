@@ -17,6 +17,7 @@ class ImageInputPreview{
 
 		/**
 		 * Parameters holder
+		 * @private
 		 */
 		this._parameters = {
 			preview: null,
